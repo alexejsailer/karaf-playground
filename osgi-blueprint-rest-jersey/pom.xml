@@ -18,7 +18,7 @@
 
 	<groupId>com.dualexec.osgi.blueprint.rest.jersey</groupId>
 	<artifactId>osgi-blueprint-rest-jersey</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>bundle</packaging>
 
 	<name>osgi-blueprint-rest-jersey Blueprint Bundle</name>
